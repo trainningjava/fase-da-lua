@@ -14,6 +14,7 @@ dependencies:
   firebase_core: ^2.15.1
   firebase_analytics: ^10.4.5
   firebase_auth: ^4.8.0
+  intl:  
 
 dev_dependencies:
   flutter_test:
@@ -25,3 +26,4 @@ flutter:
 
   assets:
     - assets/icons/
+    - assets/imagens/    
